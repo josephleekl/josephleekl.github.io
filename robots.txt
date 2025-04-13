@@ -1,3 +1,4 @@
 User-agent: *
+Disallow:
 
 Sitemap: https://josephleekl.github.io/sitemap.xml
